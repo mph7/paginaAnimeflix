@@ -1,3 +1,3 @@
-# paginaAnimeflix
-### Página da Netflix, porem uma versão de animes, com nome de Animeflix.
+
+### Netflix Page, but a version with animes
 ## https://mph7.github.io/paginaAnimeflix/
